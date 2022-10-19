@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404037428558",
+    "project_id": "current-affairs-387e2",
+    "storage_bucket": "current-affairs-387e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404037428558:android:bdbb6da29ff36e29746a1f",
+        "android_client_info": {
+          "package_name": "com.codealpha.currentaffairs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404037428558-nvmt3h0uho55das8telri9709cerd5s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqLpllV3LBFRjafFycYIXuTjAoJnIv2HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404037428558-nvmt3h0uho55das8telri9709cerd5s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
