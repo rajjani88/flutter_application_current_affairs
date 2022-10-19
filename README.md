@@ -1,7 +1,6 @@
 # flutter_application_current_affairs
 
-A new Flutter project.
-
+Simple Flutter Project. For Current affairs. Developed with Flutter and Used Firebase - firestore as backend. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
